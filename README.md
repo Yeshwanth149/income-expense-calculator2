@@ -1,11 +1,7 @@
 # 💰 Monthly Income & Expense Calculator
 
 A simple and user-friendly web application for calculating and managing **monthly income and expenses**. This mini project was developed using **HTML, CSS, and JavaScript**.
-
-## 🌐 Live Demo
-
-👉 https://yeshwanth149.github.io/income-expense-calculator2/
-
+ 
 ## 📌 Project Overview
 
 The **Monthly Income & Expense Calculator** helps users keep track of their income and expenses in one place.
